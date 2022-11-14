@@ -16,5 +16,5 @@ Create a Single Page Application that uses the Rick and Morty API (https://ricka
 
 
 ## Layout Examples
-![List View](/assets/list-view.jpg)
-![Detail View](/assets/detail-view.jpg)
+![List View](/assets/list-view.png)
+![Detail View](/assets/detail-view.png)
